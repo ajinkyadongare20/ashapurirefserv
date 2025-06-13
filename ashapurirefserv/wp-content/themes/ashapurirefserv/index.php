@@ -32,10 +32,9 @@ get_header();
                     Minimal Downtime. Trust Us To Simplify Your Refrigeration Needs With Innovative Technology And
                     Expert Support For Optimal Cooling And Energy Savings.
                 </p>
-                <a href="about.html#about-history-asfrev" class="btn btn-light py-sm-3 px-sm-5 rounded-pill me-3">Read
-                    More</a>
-                <a href="about.html" class="btn btn-outline-light py-sm-3 px-sm-5 rounded-pill">About
-                    More</a>
+              <a href="<?php echo site_url('/about/#about-history-asfrev'); ?>" class="btn btn-light py-sm-3 px-sm-5 rounded-pill me-3">Read More</a>
+              <a href="<?php echo site_url('/about/'); ?>" class="btn btn-outline-light py-sm-3 px-sm-5 rounded-pill">About More</a>
+
             </div>
             <div class="col-lg-6 align-self-start text-center text-lg-end">
                 <div class="image-container" style="display: inline-block; background-color: white; padding: 14px;">
@@ -76,7 +75,6 @@ get_header();
         <div class="row g-5 align-items-center">
             <div class="col-lg-6">
                 <div class="about-img">
-                    <!-- <img class="img-fluid" src="<?php bloginfo('template_directory'); ?>/img/hero-img.jpg"> -->
                     <img class="img-fluid"
                         src="<?php bloginfo('template_directory'); ?>/img/images/Shipping Times .jpeg">
                 </div>
@@ -293,58 +291,6 @@ get_header();
     </div>
 </div>
 <!-- Feature End -->
-
-
-<!-- Case Start -->
-<!-- <div class="container-fluid bg-light py-5">
-        <div class="container py-5">
-            <div class="mx-auto text-center" style="max-width: 500px;">
-                <h1 class="mb-4">Case Studies Heading</h1>
-            </div>
-            <div class="row g-4">
-                <div class="col-lg-4">
-                    <a href="case1.html" class="text-decoration-none">
-                        <div class="case-item position-relative overflow-hidden rounded mb-2">
-                            <img class="img-fluid" src="<?php bloginfo('template_directory'); ?>/img/images/Prasad seed 2.jpg" alt="">
-                            <div class="case-overlay text-decoration-none">
-                                <small>Case 1</small>
-                                <h5 class="lh-base text-white mb-3">Ashapuri Refrigeration Manufacturing designed a
-                                    custom system, boosting production capacity</h5>
-                                <span class="btn btn-square btn-primary"><i class="fa fa-arrow-right"></i></span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-4">
-                    <a href="case2.html" class="text-decoration-none">
-                        <div class="case-item position-relative overflow-hidden rounded mb-2">
-                            <img class="img-fluid" src="<?php bloginfo('template_directory'); ?>/img/images/Pump System(Prasad Seed,Hydrabad).jpg" alt="">
-                            <div class="case-overlay text-decoration-none">
-                                <small>Case 2</small>
-                                <h5 class="lh-base text-white mb-3">The refrigeration system delivered enhanced
-                                    reliability with reduced maintenance needs.</h5>
-                                <span class="btn btn-square btn-primary"><i class="fa fa-arrow-right"></i></span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-4">
-                    <a href="case3.html" class="text-decoration-none">
-                        <div class="case-item position-relative overflow-hidden rounded mb-2">
-                            <img class="img-fluid" src="<?php bloginfo('template_directory'); ?>/img/images/Dairy plant Sangamner.jpg" alt="">
-                            <div class="case-overlay text-decoration-none">
-                                <small>Case 3</small>
-                                <h5 class="lh-base text-white mb-3">This project exemplifies our expertise in creating
-                                    tailored, high-performance solutions.</h5>
-                                <span class="btn btn-square btn-primary"><i class="fa fa-arrow-right"></i></span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div> -->
-<!-- Case End -->
 
 
 <!-- Team Start -->

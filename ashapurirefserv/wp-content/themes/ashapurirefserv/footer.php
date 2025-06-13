@@ -8,7 +8,6 @@
  *
  * @package ashapurirefserv
  */
-
 ?>
 
 <!-- Footer Start -->
@@ -17,8 +16,7 @@
         <div class="row g-5">
             <div class="col-md-6 col-lg-3">
                 <a href="index.html" class="d-inline-block mb-3">
-                    <h2 class="text-white text-white-nav">Ashapuri Refrigeration<span class="text-primary"></span>
-                    </h2>
+                    <h2 class="text-white text-white-nav">Ashapuri Refrigeration<span class="text-primary"></span></h2>
                 </a>
                 <p class="mb-0">Ashapuri Refrigeration excels in delivering innovative, high-quality refrigeration
                     solutions. With a focus on custom design, efficiency, and reliability, we provide tailored
@@ -74,10 +72,8 @@
 </div>
 <!-- Footer End -->
 
-
 <!-- Back to Top -->
 <a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top pt-2"><i class="bi bi-arrow-up"></i></a>
-
 
 <!-- JavaScript Libraries -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>

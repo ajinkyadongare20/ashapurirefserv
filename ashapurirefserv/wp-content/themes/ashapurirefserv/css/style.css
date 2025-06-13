@@ -138,6 +138,22 @@ h6,
     font-size: 24px;
 }
 
+/* To Menu Dropdown */
+.dropdown-item {
+    display: block;
+    width: 100%;
+    padding: 10px 1rem;
+    clear: both;
+    font-weight: 500;
+    color: #14183e;
+    text-align: inherit;
+    white-space: nowrap;
+    background-color: rgba(0, 0, 0, 0);
+    border: 0;
+    font-size: 0.95rem;
+}
+
+
 @media (max-width: 420px) {
     .navbar-brand img {
         width: 135px !important;
@@ -179,6 +195,34 @@ h6,
     }
 }
 
+
+/* This code for mobile menu sub dropdown */
+@media (min-width: 320px) {
+    .navbar .nav-item .dropdown-menu {
+        display: block;
+        border: none;
+        margin-top: 0;
+        top: 150%;
+        opacity: 0;
+        visibility: hidden;
+        transition: .5s;
+    }
+
+    .navbar .nav-item:hover .dropdown-menu {
+        top: 100%;
+        visibility: visible;
+        transition: .5s;
+        opacity: 1;
+    }
+
+    ul.dropdown-menu {
+        display: none !important;
+    }
+
+    .menu-item.dropdown:hover ul.dropdown-menu {
+        display: block !important;
+    }
+}
 
 /*** Hero Header ***/
 .hero-header {
@@ -377,6 +421,7 @@ h6,
     .carousel-control-prev {
         width: 26px;
     }
+
     .about-card-img {
         width: 90%;
         padding: 10px 25px 15px 25px;
@@ -598,6 +643,7 @@ h6,
     padding-left: 25px;
     margin-bottom: 15px;
 }
+
 /* End Service Code Page */
 
 
@@ -620,10 +666,12 @@ h6,
     .product-card {
         height: 200px;
     }
+
     .services-card-title {
         font-size: 16px;
     }
 }
+
 /* project page code end */
 
 
@@ -843,4 +891,8 @@ h6,
 
 .bg-dark {
     background-color: #08244f !important;
+}
+
+.form-control {
+    line-height: 2 !important;
 }

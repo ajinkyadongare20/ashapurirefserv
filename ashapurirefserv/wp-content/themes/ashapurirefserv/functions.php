@@ -149,6 +149,7 @@ function ashapurirefserv_scripts() {
 }
 add_action( 'wp_enqueue_scripts', 'ashapurirefserv_scripts' );
 
+
 /**
  * Implement the Custom Header feature.
  */
@@ -172,6 +173,30 @@ require get_template_directory() . '/inc/customizer.php';
 /**
  * Load Jetpack compatibility file.
  */
+
+
+add_filter('walker_nav_menu_start_el', 'add_custom_icons_to_menu_items', 10, 4);
+function add_custom_icons_to_menu_items($item_output, $item, $depth, $args) {
+    // Define icons per menu title
+    $icons = [
+        'COLD CHAIN LOGISTICS'       => '<i class="fas fa-snowflake me-2 text-primary"></i>',
+        'FISHERIES FOOD PROCESSING'  => '<i class="fas fa-cheese me-2 text-primary"></i>',
+        'PHARMACEUTICAL'             => '<i class="fas fa-prescription-bottle-alt me-2 text-primary"></i>',
+        // Add more as needed
+    ];
+
+    // Loop through titles and apply icon if matched
+    foreach ($icons as $title => $icon) {
+        if (stripos($item->title, $title) !== false) {
+            $item_output = preg_replace('/(<a[^>]*>)(.*?)(<\/a>)/', '$1' . $icon . '$2$3', $item_output);
+            break;
+        }
+    }
+
+    return $item_output;
+}
+
+
 if ( defined( 'JETPACK__VERSION' ) ) {
 	require get_template_directory() . '/inc/jetpack.php';
 }
