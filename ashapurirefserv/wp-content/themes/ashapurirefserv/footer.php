@@ -16,9 +16,9 @@
         <div class="row g-5">
             <div class="col-md-6 col-lg-3">
                 <a href="index.html" class="d-inline-block mb-3">
-                    <h2 class="text-white text-white-nav">Ashapuri Refrigeration<span class="text-primary"></span></h2>
+                    <h2 class="text-white text-white-nav">Ashapuri Ref Solutions Pvt Ltd<span class="text-primary"></span></h2>
                 </a>
-                <p class="mb-0">Ashapuri Refrigeration excels in delivering innovative, high-quality refrigeration
+                <p class="mb-0">Ashapuri Ref Solutions Pvt Ltd excels in delivering innovative, high-quality refrigeration
                     solutions. With a focus on custom design, efficiency, and reliability, we provide tailored
                     systems and exceptional service to meet diverse industry needs.</p>
             </div>
@@ -61,7 +61,7 @@
         <div class="copyright">
             <div class="row">
                 <div class="col-md-12 text-center text-md-center mb-3 mb-md-0">
-                    &copy; <a class="border-bottom" href="index.html">Ashapuri Refrigeration</a>, All Right
+                    &copy; <a class="border-bottom" href="<?php echo site_url('/index'); ?>">Ashapuri Ref Solutions Pvt Ltd</a>, All Right
                     Reserved.
                     Designed By <a class="border-bottom" href="https://www.lealsolution.com/" target="_blank">Leal
                         Software Solution Pvt Ltd</a>

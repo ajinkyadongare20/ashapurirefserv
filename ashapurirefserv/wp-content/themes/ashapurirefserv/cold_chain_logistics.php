@@ -24,7 +24,7 @@ get_header();
                 <h1 class="display-4 text-white mb-4">Cold Chain and Logistics</h1>
             </div>
             <div class="col-lg-6 align-self-start text-start text-lg-start my-0 my-lg-5">
-                <p class="text-white my-4">Empowering cold chain excellence with Ashapuri Refrigeration! Delivering
+                <p class="text-white my-4">Empowering cold chain excellence with Ashapuri Ref Solutions Pvt Ltd! Delivering
                     innovative refrigeration and seamless logistics solutions to keep your products fresh, secure, and
                     perfectly preserved from origin to destination.</p>
             </div>

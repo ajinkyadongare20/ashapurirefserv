@@ -30,7 +30,7 @@ get_header();
                 </nav>
             </div>
             <div class="col-lg-6 align-self-start text-start text-lg-start wow fadeInRightBig">
-                <p class="text-white my-4 animated fadeInLeftBig">Ashapuri Refrigeration Manufacturing's
+                <p class="text-white my-4 animated fadeInLeftBig">Ashapuri Ref Solutions Pvt Ltd Manufacturing's
                     innovative projects, showcasing excellence in design, precision, and performance. Our
                     expertise drives impactful solutions, tailored to meet diverse refrigeration and cooling
                     requirements with unmatched quality.</p>
@@ -68,8 +68,8 @@ get_header();
         <div class="row g-5 align-items-center">
             <div class="col-lg-12 wow fadeIn" data-wow-delay="0.5s">
                 <!-- <div class="btn btn-sm border rounded-pill text-primary px-3 mb-3">About Us</div> -->
-                <h1 class="mb-4">Ashapuri Refrigeration Overview</h1>
-                <p class="mb-4">At Ashapuri Refrigeration, our manufacturing team is dedicated to creating
+                <h1 class="mb-4">Ashapuri Ref Solutions Pvt Ltd Overview</h1>
+                <p class="mb-4">At Ashapuri Ref Solutions Pvt Ltd, our manufacturing team is dedicated to creating
                     innovative refrigeration solutions that power industries worldwide. Here, your skills, talent,
                     and passion for excellence will help us continue leading in cutting-edge manufacturing. Join us
                     to work with a team that values precision, quality, and innovation, while enjoying best-in-class

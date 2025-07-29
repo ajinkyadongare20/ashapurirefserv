@@ -24,7 +24,7 @@ get_header();
                 <h1 class="display-4 text-white mb-4">Fisheries & Food Processing</h1>
             </div>
             <div class="col-lg-6 align-self-start text-start text-lg-start my-0 my-lg-5">
-                <p class="text-white my-4">fisheries and food processing operations with Ashapuri Refrigeration. Our
+                <p class="text-white my-4">fisheries and food processing operations with Ashapuri Ref Solutions Pvt Ltd. Our
                     state-of-the-art refrigeration solutions and expert logistics ensure that your products stay
                     fresh, safe, and efficiently transported. We provide tailored services that meet the specific
                     needs of the fisheries and food industries, preserving quality from start to finish.</p>

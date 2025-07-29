@@ -24,7 +24,7 @@ get_header();
                 <h1 class="display-4 text-white mb-4">About Us</h1>
             </div>
             <div class="col-lg-6 align-self-start text-start text-lg-start my-0 my-lg-5">
-                <p class="text-white my-4">Ashapuri Refrigeration Manufacturing is a
+                <p class="text-white my-4">Ashapuri Ref Solutions Pvt Ltd Manufacturing is a
                     trusted industry leader, specializing in
                     innovative refrigeration solutions tailored to your business needs. Our expertise
                     ensures efficient cooling systems, enhancing productivity, quality, and reliability.
@@ -63,8 +63,8 @@ get_header();
         <div class="row g-5 align-items-center">
             <div class="col-lg-12">
                 <!-- <div class="btn btn-sm border rounded-pill text-primary px-3 mb-3">About Us</div> -->
-                <h1 class="mb-4">Ashapuri Refrigeration</h1>
-                <p class="mb-4">Ashapuri Refrigeration Services, founded in 2012 by Mr. Nandkishor Kotkar, is a
+                <h1 class="mb-4">Ashapuri Ref Solutions Pvt Ltd</h1>
+                <p class="mb-4">Ashapuri Ref Solutions Pvt Ltd, founded in 2012 by Mr. Nandkishor Kotkar, is a
                     leading engineering company specializing in industrial refrigeration. With over 30 years of
                     expertise in the Refrigeration & Air Conditioning Industry, we have rapidly expanded our
                     operations and customer base, earning a strong reputation for excellence.</p>
@@ -168,10 +168,11 @@ get_header();
     </div>
     <!--  -->
 
+    
     <!-- Start Board of Directors -->
     <div class="container py-5 my-5"
         style="background-color: white; border-radius: 10px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);">
-        <h2 class="fw-bold about-card-heading" style="text-align: center;">Founder Member</h2>
+        <h2 class="fw-bold about-card-heading" style="text-align: center;">Managing Director</h2>
         <div class="row mt-5">
             <div class="col-md-6 d-flex justify-content-center">
                 <img src="<?php bloginfo('template_directory'); ?>/img/teams/team2.jpg" class="img-fluid about-card-img"
@@ -185,7 +186,6 @@ get_header();
                     Services Pvt. Ltd., Voltas Ltd, and Blue Star Ltd.
                 </p>
             </div>
-
         </div>
     </div>
     <!-- End Board of Directors -->
@@ -262,9 +262,9 @@ get_header();
     </div>
     <!-- End Feature  -->
 
-    <!-- Histroy Ashapuri Refrigeration -->
+    <!-- Histroy Ashapuri Ref Solutions Pvt Ltd -->
     <div class="container-fluid about-history">
-        <h2 class="text-center mb-4" style="color: white;">Ashapuri Refrigeration History</h2>
+        <h2 class="text-center mb-4" style="color: white;">Ashapuri Ref Solutions Pvt Ltd History</h2>
         <div class="history-carousel container p-3 p-lg-5 rounded" style="max-width: 1200px;">
             <span class="carousel-control-prev" onclick="changeSlide(-1)">
                 &#10094;
@@ -310,7 +310,7 @@ get_header();
             </div>
         </div>
     </div>
-    <!-- End History Ashapuri Refrigeration-->
+    <!-- End History Ashapuri Ref Solutions Pvt Ltd-->
 </section>
 <!-- End Section Main -->
 

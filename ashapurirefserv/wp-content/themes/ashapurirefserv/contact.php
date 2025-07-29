@@ -24,7 +24,7 @@ get_header();
                 <h1 class="display-4 text-white mb-4">Contact Us</h1>
             </div>
             <div class="col-lg-6 align-self-start text-start text-lg-start my-0 my-lg-5">
-                <p class="text-white my-4">Get in touch with Ashapuri Refrigeration
+                <p class="text-white my-4">Get in touch with Ashapuri Ref Solutions Pvt Ltd
                     Manufacturing! We're here to assist with your refrigeration needs. Reach out for
                     inquiries, support, or customized solutions. Our team is ready to provide prompt and
                     reliable assistance for your business.</p>

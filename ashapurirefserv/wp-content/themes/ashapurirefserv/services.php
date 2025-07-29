@@ -24,7 +24,7 @@ get_header();
                 <h1 class="display-4 text-white mb-4">Our Services</h1>
             </div>
             <div class="col-lg-6 align-self-start text-start text-lg-start my-0 my-lg-5">
-                <p class="text-white my-4">Ashapuri Refrigeration Manufacturing's
+                <p class="text-white my-4">Ashapuri Ref Solutions Pvt Ltd Manufacturing's
                     comprehensive range of services, designed to meet all your refrigeration and cooling
                     needs. From customized solutions to reliable maintenance, we ensure efficiency, quality,
                     and performance at every step.</p>
@@ -159,7 +159,7 @@ get_header();
 <!-- Content Heading Section  -->
 <div class="container text-white py-4 services-card-bg">
     <div class="container">
-        <h1 class="display-6 fw-bold  text-white text-start text-lg-center">Ashapuri Refrigeration Services</h1>
+        <h1 class="display-6 fw-bold  text-white text-start text-lg-center">Ashapuri Ref Solutions Pvt Ltd</h1>
     </div>
 </div>
 <!-- Content Heading Ending  -->
@@ -175,7 +175,7 @@ get_header();
                         <!-- <h2 class="text-darkness fw-bold mb-4" style="text-align: center;">Ashapuri
                                 Refrigeration Services</h2> -->
                         <p class="pt-3 pb-4">
-                            Ashapuri Refrigeration Services Group is a single source for your cold chain
+                            Ashapuri Ref Solutions Pvt Ltd Group is a single source for your cold chain
                             requirements. Our decades of experience, advanced
                             equipment, and state-of-the-art facility allow us to handle various customised
                             projects across the industry range, Our commitment to quality and customer satisfaction
@@ -195,15 +195,15 @@ get_header();
             <!-- Image Section -->
             <div class="col-md-6 mb-3 mb-md-0">
                 <img src="<?php bloginfo('template_directory'); ?>/img/ASHAPURI PROJECT PHOTOS/11.sahyad.jpeg"
-                    alt="Ashapuri Refrigeration Group" class="img-fluid">
+                    alt="Ashapuri Ref Solutions Pvt Ltd Group" class="img-fluid">
             </div>
 
             <!-- Text Section -->
             <div class="col-md-6 ps-4">
-                <h2 class="text-darkness fw-bold mb-4">Advantages of Partnering With Ashapuri Refrigeration Group
+                <h2 class="text-darkness fw-bold mb-4">Advantages of Partnering With Ashapuri Ref Solutions Pvt Ltd Group
                 </h2>
                 <p>
-                    Ashapuri Refrigeration Company ability to handle all your requirements reduce manufacturing
+                    Ashapuri Ref Solutions Pvt Ltd Company ability to handle all your requirements reduce manufacturing
                     costs and eliminate the need for multiple suppliers. Our
                     knowledgeable engineers, experienced technicians, and innovative equipment allow us to offer
                     some of the fastest lead times in the region. We can help you identify the most beneficial
@@ -222,12 +222,12 @@ get_header();
                     <h3 class="text-white mb-4">Contact Us Today for More Information</h3>
                     <p class="text-white mb-4">
                         If you're seeking a refrigeration company that will support you throughout each project
-                        phase, Ashapuri Refrigeration is here to help. We specialize in maximizing efficiency,
+                        phase, Ashapuri Ref Solutions Pvt Ltd is here to help. We specialize in maximizing efficiency,
                         enhancing system quality, and speeding up installation times to exceed customer
                         expectations. Contact us online today to learn more about how our refrigeration solutions
                         can benefit your business.
                     </p>
-                    <a href="contact.html" class="btn btn-light text-primary fw-bold py-2 px-4 rounded-pill">Contact
+                    <a href="<?php echo site_url('/contact'); ?>" class="btn btn-light text-primary fw-bold py-2 px-4 rounded-pill">Contact
                         Us →</a>
                 </div>
             </div>
@@ -242,7 +242,7 @@ get_header();
             <div class="col-lg-12">
                 <h2 class="fw-bold1s" style="color: #002a5b;">Ashapuri
                     Refrigeration's Cooling Solutions and Capabilities</h2>
-                <p class="mt-31s">Ashapuri Refrigeration, we specialize in
+                <p class="mt-31s">Ashapuri Ref Solutions Pvt Ltd, we specialize in
                     providing advanced industrial cooling solutions for a wide range of applications from custom
                     refrigeration systems to large-scale cooling units. We are a full-service provider that delivers
                     everything from design to installation and maintenance with our comprehensive capabilities, you

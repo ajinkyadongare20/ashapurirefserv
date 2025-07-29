@@ -28,7 +28,7 @@ get_header();
                 <p class="text-white my-4">Explore our diverse Product,
                     showcasing innovative refrigeration solutions across industries. From cold storage to
                     process cooling,
-                    Ashapuri Refrigeration delivers excellence in manufacturing and installation for clients
+                    Ashapuri Ref Solutions Pvt Ltd delivers excellence in manufacturing and installation for clients
                     worldwide.</p>
             </div>
         </div>
@@ -64,8 +64,8 @@ get_header();
         <div class="row g-5 align-items-center">
             <div class="col-lg-12">
                 <!-- <div class="btn btn-sm border rounded-pill text-primary px-3 mb-3">About Us</div> -->
-                <h1 class="mb-4">Ashapuri Refrigeration Overview</h1>
-                <p class="mb-4">At Ashapuri Refrigeration, our manufacturing team is dedicated to creating
+                <h1 class="mb-4">Ashapuri Ref Solutions Pvt Ltd Overview</h1>
+                <p class="mb-4">At Ashapuri Ref Solutions Pvt Ltd, our manufacturing team is dedicated to creating
                     innovative refrigeration solutions that power industries worldwide. Here, your skills, talent,
                     and passion for excellence will help us continue leading in cutting-edge manufacturing. Join us
                     to work with a team that values precision, quality, and innovation, while enjoying best-in-class

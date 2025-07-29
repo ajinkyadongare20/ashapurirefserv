@@ -25,7 +25,7 @@ get_header();
                 <h1 class="display-4 text-white mb-4">Awards</h1>
             </div>
             <div class="col-lg-6 align-self-start text-start text-lg-start my-0 my-lg-5">
-                <p class="text-white mb-4">Celebrate Excellence with Ashapuri Refrigeration’s Award-Winning
+                <p class="text-white mb-4">Celebrate Excellence with Ashapuri Ref Solutions Pvt Ltd’s Award-Winning
                     Solutions. Our commitment to innovation, quality, and customer satisfaction has earned us
                     recognition in the industry. Explore the accolades that reflect our dedication to providing
                     top-tier refrigeration and logistics services across various sectors</p>

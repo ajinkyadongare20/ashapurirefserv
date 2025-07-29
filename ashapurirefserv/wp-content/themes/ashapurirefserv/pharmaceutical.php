@@ -25,7 +25,7 @@ get_header();
             </div>
             <div class="col-lg-6 align-self-start text-start text-lg-start my-0 my-lg-5">
                 <p class="text-white my-4">Ensure the safety and integrity of your pharmaceutical products with
-                    Ashapuri Refrigeration. Our advanced cold chain solutions and specialized logistics maintain
+                    Ashapuri Ref Solutions Pvt Ltd. Our advanced cold chain solutions and specialized logistics maintain
                     precise temperature control, safeguarding sensitive medications throughout storage and
                     transport. Trust us for reliable, efficient service tailored to meet the critical needs of the
                     pharmaceutical industry</p>

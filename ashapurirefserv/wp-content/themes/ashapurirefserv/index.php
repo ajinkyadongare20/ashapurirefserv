@@ -21,13 +21,13 @@ get_header();
         <div class="row g-5 pt-5">
             <div class="col-lg-6 align-self-center text-start text-lg-start mb-lg-5">
                 <!-- <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Banner</div> -->
-                <h2 class="display-4 text-white mb-4">Ashapuri Refrigeration</h2>
+                <h2 class="display-4 text-white mb-4">Ashapuri Ref Solutions Pvt Ltd</h2>
                 <h1 class="fw- text-white" style="font-size:18px;">Best Refrigeration Company in Pune</h1>
                 <!--<p class="text-white mb-4">-->
                 <!--     Ashapuri Company is the leading refrigerator brand in Pune, known for its high-quality, energy-efficient, and durable refrigeration solutions. With a strong commitment to innovation and customer satisfaction, Ashapuri offers a wide range of refrigerators designed to meet the needs of homes, businesses, and commercial establishments. Their advanced cooling technology ensures optimal freshness, while their sleek and modern designs enhance any space. Whether you need a single-door, double-door, or commercial-grade refrigerator, Ashapuri Company provides reliable and cost-effective solutions, making it the top choice for refrigeration in Pune.-->
                 <!--</p>-->
                 <p class="text-white mb-4">
-                    Ashapuri Refrigeration Offers Straightforward Industrial Refrigeration Solutions Tailored For
+                    Ashapuri Ref Solutions Pvt Ltd Offers Straightforward Industrial Refrigeration Solutions Tailored For
                     Efficiency And Reliability. We Streamline Complex Systems, Ensuring Seamless Performance And
                     Minimal Downtime. Trust Us To Simplify Your Refrigeration Needs With Innovative Technology And
                     Expert Support For Optimal Cooling And Energy Savings.
@@ -81,7 +81,7 @@ get_header();
             </div>
             <div class="col-lg-6">
                 <!-- <div class="btn btn-sm border rounded-pill text-primary px-3 mb-3">About Us</div> -->
-                <p class="mb-4 ">Ashapuri Refrigeration is a leading turnkey contracting company and project solution
+                <p class="mb-4 ">Ashapuri Ref Solutions Pvt Ltd is a leading turnkey contracting company and project solution
                     provides specializing in high-quality refrigeration solutions for diverse industries. With a
                     commitment to innovation and excellence, we design and produce state-of-the-art refrigeration units
                     tailored to meet the evolving needs of our clients. Our product range includes industrial chillers,
@@ -118,7 +118,7 @@ get_header();
             <div class="col-lg-5">
                 <!-- <div class="btn btn-sm border rounded-pill text-primary px-3 mb-3">Our Services</div> -->
                 <h3 class="mb-4">Our Specality</h3>
-                <p class="mb-4">Ashapuri Refrigeration Services delivers comprehensive industrial refrigeration
+                <p class="mb-4">Ashapuri Ref Solutions Pvt Ltd delivers comprehensive industrial refrigeration
                     solutions with expertise in design, installation, and maintenance. We specialize in the design
                     and execution of industrial refrigeration projects, including cold storages, cold rooms, blast
                     freezers,
@@ -256,7 +256,7 @@ get_header();
                     style="background-color: rgba(256, 256, 256, 0.1);">
                     <h4 class="text-white mb-3">Energy-Efficient Refrigeration Solutions</h4>
                     <h5 class="text-white mb-3">Our Commitment to Energy Efficiency</h5>
-                    <p class="mb-4" style="color: rgba(255, 255, 255, .7);">Ashapuri Refrigeration, we
+                    <p class="mb-4" style="color: rgba(255, 255, 255, .7);">Ashapuri Ref Solutions Pvt Ltd, we
                         prioritize energy-efficient
                         solutions to help reduce operational costs and environmental impact. Our refrigeration
                         systems are designed to optimize performance while minimizing power consumption,
@@ -384,7 +384,7 @@ get_header();
                         </div>
                         <div class="testimonial-item ps-5">
                             <i class="fa fa-quote-left fa-2x text-primary mb-3"></i>
-                            <p class="fs-6">From our initial consultation, it was clear that Ashapuri Refrigeration
+                            <p class="fs-6">From our initial consultation, it was clear that Ashapuri Ref Solutions Pvt Ltd
                                 understood our needs precisely. We are thrilled with how they transformed our
                                 requirements into a highly efficient refrigeration system. With just a few discussions,
                                 detailed specifications, and an understanding of our operations, they delivered a
@@ -400,7 +400,7 @@ get_header();
                         </div>
                         <div class="testimonial-item ps-5">
                             <i class="fa fa-quote-left fa-2x text-primary mb-3"></i>
-                            <p class="fs-6">Working with Ashapuri Refrigeration was a seamless experience from start to
+                            <p class="fs-6">Working with Ashapuri Ref Solutions Pvt Ltd was a seamless experience from start to
                                 finish. Their team quickly grasped our manufacturing challenges and provided an
                                 innovative refrigeration solution that exceeded our expectations. They completed the
                                 project efficiently and on budget, proving their expertise and commitment to quality
@@ -416,7 +416,7 @@ get_header();
                         </div>
                         <div class="testimonial-item ps-5">
                             <i class="fa fa-quote-left fa-2x text-primary mb-3"></i>
-                            <p class="fs-6">Collaborating with Ashapuri Refrigeration was effortless and efficient.
+                            <p class="fs-6">Collaborating with Ashapuri Ref Solutions Pvt Ltd was effortless and efficient.
                                 Their team thoroughly understood our manufacturing challenges and delivered a
                                 cutting-edge refrigeration solution that surpassed our expectations. The project was
                                 completed on time and within budget, showcasing their professionalism, expertise, and

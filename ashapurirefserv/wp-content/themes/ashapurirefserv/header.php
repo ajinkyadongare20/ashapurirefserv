@@ -21,7 +21,7 @@
     </script>
 
     <meta charset="utf-8">
-    <title>Best Refrigeration company in Pune | Ashapuri Refrigeration</title>
+    <title>Best Refrigeration company in Pune | Ashapuri Ref Solutions Pvt Ltd</title>
     <meta name="description" content="Ashapuri is a leading refrigeration company in pune known for its high-quality, energy-efficient cooling solutions.Enquire now!">
     <meta name="keywords" content="refrigeration company in pune, turnkey solution, cold storage near me, cold storages,cold storage business,cold storage warehouses, cold storage near me">
     <link rel="canonical" href="https://www.ashapurirefserv.com/index.html">
@@ -29,7 +29,7 @@
 
     <!-- Favicon -->
     <link href="<?php bloginfo('template_directory'); ?>/img/favicon.ico" rel="icon">
-    <link rel="icon" href="<?php bloginfo('template_directory'); ?>/img/Asfrev Logo.jpg" type="image/x-icon">
+    <link rel="icon" href="<?php bloginfo('template_directory'); ?>/img/Ashapuri New Logo.jpg" type="image/x-icon">
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -67,8 +67,8 @@
     <div class="container-fluid sticky-top">
         <div class="container">
             <nav class="navbar navbar-expand-lg navbar-dark p-0">
-                <a href="index.html" class="navbar-brand">
-                    <img src="<?php bloginfo('template_directory'); ?>/img/Asfrev Logo.jpg" alt="Button Image" class="animated slideInDown">
+                <a href="<?php echo site_url('/index'); ?>" class="navbar-brand">
+                    <img src="<?php bloginfo('template_directory'); ?>/img/Ashapuri New Logo.jpg" alt="Button Image" class="animated slideInDown">
                 </a>
                 <button type="button" class="navbar-toggler ms-auto me-0" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                     <span class="navbar-toggler-icon"></span>
