@@ -68,7 +68,7 @@
         <div class="container">
             <nav class="navbar navbar-expand-lg navbar-dark p-0">
                 <a href="<?php echo site_url('/index'); ?>" class="navbar-brand">
-                    <img src="<?php bloginfo('template_directory'); ?>/img/Ashapuri New Logo.jpg" alt="Button Image" class="animated slideInDown">
+                    <img src="<?php bloginfo('template_directory'); ?>/img/asfrev_update.png" alt="Button Image" class="animated slideInDown">
                 </a>
                 <button type="button" class="navbar-toggler ms-auto me-0" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                     <span class="navbar-toggler-icon"></span>
